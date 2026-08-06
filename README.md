@@ -111,7 +111,7 @@ http://127.0.0.1/DVWA
 
 ### DVWA Target
 
-    ── 01-dvwa-target-application.png
+![DVWA Target Application](screenshots/01-dvwa-target-application.png)
 
 ---
 
